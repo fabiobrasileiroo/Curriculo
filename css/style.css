@@ -1,0 +1,12 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.057);
+}
+body {
+    background-color: aliceblue;
+}
+a {
+    color: black;
+}
