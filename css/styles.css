@@ -103,7 +103,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-.localAM {
+/*.localAM {
   color: #343A40;
   text-decoration:none ;
   background-color: #C7CACD;
@@ -117,7 +117,7 @@ body {
   border-radius: 10px 10px 10px 0px;
   padding-left: 3px ;
   padding-right: 3px;
-}
+}*/
 hr {
   margin: 1rem 0;
   color: inherit;
